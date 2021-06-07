@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="imgDesc_SignIn">Immage Sign In</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="string_signIn">Kalo udah punya akun silahkan masuk</string>
+    <string name="ic_desc">icon_person</string>
+    <string name="text_email">Email</string>
+    <string name="ic_desc1">icon_lock</string>
+    <string name="txt_pass">Password</string>
+    <string name="txt_btn">Kirim</string>
+    <string name="txt_lupaPass">forgot password?</string>
+    <string name="txt">Masuk Melalui</string>
+    <string name="txt_btn1">facebook</string>
+    <string name="txt_btn2">Google</string>
+    <string name="txt4">Belum punya akun?</string>
+    <string name="txt_link_signUp">Daftar</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">520545779126494</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb520545779126494</string>
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="cool_gray50">#f5f7fa</color>
+    <color name="cool_gray100">#e4e7eb</color>
+    <color name="cool_gray200">#cbd2d9</color>
+    <color name="cool_gray300">#9aa5b1</color>
+    <color name="cool_gray400">#7b8794</color>
+    <color name="cool_gray500">#616e7c</color>
+    <color name="cool_gray600">#52606d</color>
+    <color name="cool_gray700">#3e4c59</color>
+    <color name="cool_gray800">#323f4b</color>
+    <color name="cool_gray900">#1f2933</color>
+
+    <color name="gojek_color_red">#EE2737</color>
+    <color name="gojek_color_green">#00AA13</color>
+    <color name="gojek_color_orange">#F06400</color>
+    <color name="gojek_color_pink">#DF1995</color>
+    <color name="gojek_color_blue">#00AED6</color>
+    <color name="gojek_color_purple">#93328E</color>
+
+
+
+
+
+</resources>
